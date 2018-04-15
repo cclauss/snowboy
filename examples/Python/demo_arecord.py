@@ -1,4 +1,6 @@
-import snowboydecoder_arecord
+from __future__ import print_function
+from __future__ import absolute_import
+from . import snowboydecoder_arecord
 import sys
 import signal
 
